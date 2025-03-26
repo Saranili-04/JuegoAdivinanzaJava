@@ -10,17 +10,17 @@ El objetivo del juego es que el jugador adivine el número secreto en un máximo
 
 ### Reglas del Juego
 
--El jugador tiene 5 intentos para adivinar el número.
--El número aleatorio está comprendido entre 1 y 100.
--Se ofrecen dos modos de dificultad:
+- El jugador tiene 5 intentos para adivinar el número.
+- El número aleatorio está comprendido entre 1 y 100.
+- Se ofrecen dos modos de dificultad:
 
- Fácil: Las pistas son más precisas, acortando el rango con menor variación.
+ -Fácil: Las pistas son más precisas, acortando el rango con menor variación.
 
- Difícil: Las pistas tienen un rango más amplio, haciendo más difícil localizar el número.
+ -Difícil: Las pistas tienen un rango más amplio, haciendo más difícil localizar el número.
 
--Si el jugador acierta el número en cualquier intento, el juego termina con un mensaje de éxito.
+- Si el jugador acierta el número en cualquier intento, el juego termina con un mensaje de éxito.
 
--Si el jugador no acierta tras los 5 intentos, el juego revela el número secreto y finaliza.
+- Si el jugador no acierta tras los 5 intentos, el juego revela el número secreto y finaliza.
 
 ### Diferencias entre el Modo Fácil y el Modo Difícil
 
