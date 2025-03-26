@@ -36,7 +36,7 @@ Estrategia Recomendada:
 - Modo Fácil: Se puede jugar con aproximaciones amplias al inicio e ir refinando las conjeturas.
 - Modo Difícil: Es más efectivo utilizar un enfoque lógico desde el principio, aprovechando cada pista para descartar rápidamente opciones.
 
-  ### Instrucciones para Compilar y Ejecutar el Programa
+### Instrucciones para Compilar y Ejecutar el Programa
 
 1. Guarda el código en un archivo llamado JuegoAdivinanza.java.
 
