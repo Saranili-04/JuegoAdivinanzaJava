@@ -31,7 +31,7 @@ Flujo Principal:
 Flujo Alternativo:
 - Si el jugador ingresa un número fuera del rango permitido (menor que 1 o mayor que 100), el sistema muestra un mensaje de error indicando que el valor es inválido y solicita que ingrese un número válido. 
    
-<img src="./capturas/1.png" alt="Agregar primer contacto" width="300" /><br>
+<img src="./capturas/1.png" alt="caso facil" width="300" /><br>
 <br>
 ### Caso de Uso: Modo Difícil
 
@@ -49,7 +49,7 @@ Flujo Alternativo:
 - Si el jugador ingresa un número fuera del rango permitido, el sistema muestra un mensaje de error indicando que el valor es inválido y solicita que ingrese un número válido.
 - Si el jugador acierta el número antes de agotar sus intentos, el sistema muestra un mensaje de felicitación y finaliza el juego.
 
-<img src="./capturas/11.png" alt="Achivo cargado llamado a" width="300" />
+<img src="./capturas/2.png" alt="dificil" width="300" />
 
 ### Enlaces Relacionados
 - Repositorio en GitHub
