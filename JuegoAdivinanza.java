@@ -19,7 +19,7 @@ public class JuegoAdivinanza {
       
             while (numIntentos > 0 ){
                 System.out.print("\n");
-                System.out.println("Ingrese un número entre 1 y 100.");
+                System.out.println("Ingresa un número del 1 al 100 que creas que es el correcto: ");
                 int num_usuario = scanner.nextInt();
                 scanner.nextLine();
                 System.out.print("\n");
