@@ -36,6 +36,22 @@ Estrategia Recomendada:
 - Modo Fácil: Se puede jugar con aproximaciones amplias al inicio e ir refinando las conjeturas.
 - Modo Difícil: Es más efectivo utilizar un enfoque lógico desde el principio, aprovechando cada pista para descartar rápidamente opciones.
 
+  ### Instrucciones para Compilar y Ejecutar el Programa
+
+1. Guarda el código en un archivo llamado JuegoAdivinanza.java.
+
+2. Abre la terminal o consola de comandos y navega hasta el directorio donde guardaste el archivo.
+
+3. Compila el programa con el siguiente comando:
+
+> javac JuegoAdivinanza.java
+
+4. Si no hay errores de compilación, ejecuta el programa con el siguiente comando:
+
+> java JuegoAdivinanza
+
+5. Sigue las instrucciones en pantalla para jugar y disfrutar del juego.
+
 ### Capturas de Pantalla
 
 ### Caso de Uso: Validación de Entrada y Éxito en la Adivinanza
