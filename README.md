@@ -14,9 +14,9 @@ El objetivo del juego es que el jugador adivine el número secreto en un máximo
 - El número aleatorio está comprendido entre 1 y 100.
 - Se ofrecen dos modos de dificultad:
 
- -Fácil: Las pistas son más precisas, acortando el rango con menor variación.
+   -Fácil: Las pistas son más precisas, acortando el rango con menor variación.
 
- -Difícil: Las pistas tienen un rango más amplio, haciendo más difícil localizar el número.
+   -Difícil: Las pistas tienen un rango más amplio, haciendo más difícil localizar el número.
 
 - Si el jugador acierta el número en cualquier intento, el juego termina con un mensaje de éxito.
 
@@ -87,6 +87,7 @@ Flujo Alternativo:
 - Si el jugador acierta el número antes de agotar sus intentos, el sistema muestra un mensaje de felicitación y finaliza el juego.
 
 <img src="./capturas/2.png" alt="dificil" width="300" />
+
 
 ### Enlaces Relacionados
 - Repositorio en GitHub
